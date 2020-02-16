@@ -6,7 +6,7 @@
 
 - 原理图
 
-  ![sch](/AltiumDesignerPCB-Project/sch.png)
+  ![SCH](/AltiumDesignerPCB-Project/SCH.png)
 
 - PCB 3D图
 
