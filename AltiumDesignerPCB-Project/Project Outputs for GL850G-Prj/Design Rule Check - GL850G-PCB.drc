@@ -1,0 +1,30 @@
+Protel Design System Design Rule Check
+PCB File : G:\GitHub\GL850G-USB2.0-HUB\AltiumDesignerPCB-Project\GL850G-PCB.PcbDoc
+Date     : 2020/2/16
+Time     : 12:45:17
+
+Processing Rule : Clearance Constraint (Gap=6mil) (IsVia),(IsSMTPin)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (IsVia),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=15mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

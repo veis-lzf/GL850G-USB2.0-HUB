@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [GL850G-Prj.PrjPcb]
+   Generated File[Pick Place for GL850G-PCB(Variant of GL850G-Prj).txt]
+   Generated File[Pick Place for GL850G-PCB(Variant of GL850G-Prj).csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 14:01:44 On 2020/2/16

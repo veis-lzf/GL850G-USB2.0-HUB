@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=AVDD Pin=LB2-1
+Removed Pin From Net: NetName=DVDD Pin=LB2-2
+Removed Pin From Net: NetName=VDP1 Pin=LB4-2
+Removed Pin From Net: NetName=VDP1 Pin=LB5-2
+Removed Pin From Net: NetName=VDP1 Pin=LB6-2
+Removed Pin From Net: NetName=DGND Pin=UP1-0
+Removed Pin From Net: NetName=DGND Pin=UP1-0
+Removed Pin From Net: NetName=DGND Pin=UP1-0
+Removed Pin From Net: NetName=DGND Pin=UP1-0
+Removed Pin From Net: NetName=DGND Pin=UP1-0
+Removed Pin From Net: NetName=DGND Pin=UP1-0
+Removed Pin From Net: NetName=DGND Pin=UP1-1
+Removed Pin From Net: NetName=DM0 Pin=UP1-4
+Added Pin To Net: NetName=DVDD Pin=LB2-1
+Added Pin To Net: NetName=AVDD Pin=LB2-2
+Added Pin To Net: NetName=VDP1 Pin=LB4-1
+Added Pin To Net: NetName=VDP1 Pin=LB5-1
+Added Pin To Net: NetName=VDP1 Pin=LB6-1
+Added Pin To Net: NetName=DM0 Pin=UP1-2
+Added Pin To Net: NetName=DGND Pin=UP1-5
+Change Net Name : Old Net Name=AVDD New Net Name=AVDD1
+Change Net Name : Old Net Name=N15275140 New Net Name=NetC7_2
+Change Net Name : Old Net Name=N15289456 New Net Name=NetLED1_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=DOWN2-1
+Added Pin To Net: NetName=NetC11_2 Pin=LB4-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=DOWN3-1
+Added Pin To Net: NetName=NetC12_2 Pin=LB5-2
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=DOWN4-1
+Added Pin To Net: NetName=NetC15_2 Pin=LB6-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetLB1_2 Pin=LB1-2
+Added Pin To Net: NetName=NetLB1_2 Pin=UP1-1
+Added Net: Name=NetLB1_2

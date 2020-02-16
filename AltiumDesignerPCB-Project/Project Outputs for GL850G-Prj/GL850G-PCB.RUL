@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: G:\GitHub\GL850G-USB2.0-HUB\AltiumDesignerPCB-Project\GL850G-PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance - Default - DEFAULT- SMD|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance - Default - DEFAULT - Via|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion from CAM settings|Scope=Board|Minimum=2.00
+RuleKind=Clearance|RuleName=Clearance - Default - DEFAULT - Net|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Default Width|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

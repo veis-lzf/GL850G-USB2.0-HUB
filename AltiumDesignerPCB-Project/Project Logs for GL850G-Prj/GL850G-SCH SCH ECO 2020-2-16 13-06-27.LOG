@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=UP1-4 Old Name=ID New Designator =D- New Name=2
+Change Pin Designator/Name:  Old Designator=UP1-5 Old Name=GND New Designator =VCC New Name=1
+Change Pin Designator/Name:  Old Designator=UP1-2 Old Name=D- New Designator =ID New Name=4
+Change Pin Designator/Name:  Old Designator=UP1-1 Old Name=VCC New Designator =GND New Name=5

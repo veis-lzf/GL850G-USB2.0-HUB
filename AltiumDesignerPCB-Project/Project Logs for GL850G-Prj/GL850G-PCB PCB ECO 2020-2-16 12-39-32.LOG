@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=N15275415 Pin=DOWN2-1
+Removed Pin From Net: NetName=N15275416 Pin=DOWN4-1
+Added Pin To Net: NetName=N15275416 Pin=DOWN2-1
+Added Pin To Net: NetName=N15275415 Pin=DOWN4-1
+Change Net Name : Old Net Name=N15275302 New Net Name=NetLB1_2
+Change Net Name : Old Net Name=N15275415 New Net Name=NetC15_2
+Change Net Name : Old Net Name=N15275416 New Net Name=NetC11_2
